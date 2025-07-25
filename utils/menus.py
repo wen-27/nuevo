@@ -7,8 +7,7 @@ menu_jugadores ="""
 3. Editar un jugador existente
 4. Eliminar un jugador
 5. Salir
-==============================
-selecciona una opcion : 
+============================== 
 """
 menu_equipo ="""
 ==============================
@@ -20,7 +19,6 @@ menu_equipo ="""
 4. Eliminar un equipo
 5. Salir
 ==============================
-selecciona una opcion : 
 """
 menu_transferencia = """
 ==============================
@@ -32,7 +30,6 @@ menu_transferencia = """
 4. Eliminar una tranferencia
 5. Salir
 ==============================
-selecciona una opcion : 
 """
 menu = """
 ==================
@@ -44,5 +41,4 @@ GESTOR DE TORNEOS
 4. Salir
 ==================
 
-elija una opcion: 
 """

@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "nombre": "wen",
+        "posicion": "defensa",
+        "dorsal": 14,
+        "equipo_id": 1
+    }
+]
